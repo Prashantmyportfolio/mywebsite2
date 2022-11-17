@@ -1,0 +1,32 @@
+ul.li.a{
+    margin-left: 100px;
+}
+
+marquee{
+    padding: 2px;
+    background-color: greenyellow;
+    color: rgb(20, 19, 19);
+    margin-top: 2px;
+}
+   #a1{
+    color:rgb(235, 0, 0);
+   }
+   #a1:hover{
+    color: gold;
+   }
+   #a2{
+    color: rgb(220, 20, 220);
+   }
+   #a2:hover{
+    color: rgb(255, 0, 55);
+   }
+   #a3{
+    color: rgb(117, 220, 20);
+   }
+   #a3:hover{
+    color: rgb(0, 4, 255);
+   }
+video{
+    margin-top: -30px;
+}
+   
